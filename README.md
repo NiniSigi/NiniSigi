@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">When I'm not coding, you can find me:<br><br> -  Leading at Jungschar: 🏕️ jungschi.ch<br><br>   - Creating 3D Renderings: ✨ Blender, ZBrush, EmberGen & more!<br>  <br>-  Photography: 📸 Capturing the world through my lens.<br>   <br>- Programming: 💻 Exploring new tech and building cool projects.</p>
+<p align="left">When I'm not coding, you can find me:<br><br> - Leading at <a href="https://jungschi.ch" target="_blank">Jungschar</a>: 🏕️ jungschi.ch<br><br><br>   - Creating 3D Renderings: ✨ Blender, ZBrush, EmberGen & more!<br>  <br>-  Photography: 📸 Capturing the world through my lens.<br>   <br>- Programming: 💻 Exploring new tech and building cool projects.</p>
 
 ###
 
