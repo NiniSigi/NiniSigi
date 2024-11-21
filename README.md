@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://github.com/NiniSigi/NiniSigi/blob/main/ThreeJs.svg" height="40" alt="three js logo"  />
+  <img src="https://github.com/NiniSigi/NiniSigi/blob/main/ThreeJS.svg" height="40" alt="three js logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
