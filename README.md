@@ -61,7 +61,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bun/bun-original.svg" height="40" alt="bun js logo" />
     <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/threejs/threejs-original-wordmark.svg" height="40" alt="three js logo"  />
+  <img src="https://github.com/NiniSigi/NiniSigi/blob/main/ThreeJs.svg" height="40" alt="three js logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
